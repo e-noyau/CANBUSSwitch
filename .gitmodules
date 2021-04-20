@@ -1,0 +1,6 @@
+[submodule "libraries/ESP32-Arduino-CAN"]
+	path = libraries/ESP32-Arduino-CAN
+	url = git@github.com:miwagner/ESP32-Arduino-CAN.git
+[submodule "libraries/Button2"]
+	path = libraries/Button2
+	url = git@github.com:LennartHennigs/Button2.git

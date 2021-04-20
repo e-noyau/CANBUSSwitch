@@ -1,0 +1,16 @@
+{
+	"name": "Blinker",
+	"keywords": "blinker",
+	"description": "Arduino Library to simplify blinking.",
+	"version": "1.0",
+	"homepage": "https://github.com/enoyau/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/enoyau"
+	},
+	"authors": {
+		"name": "Eric Noyau",
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+}
